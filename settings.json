@@ -1,0 +1,13 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "editor.lineNumbers": "relative",
+    "explorer.confirmDelete": false,
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["j", "j"],
+            "after": ["<Esc>"]
+        }
+    ],
+    "editor.minimap.enabled": false,
+    "php.validate.executablePath": "/opt/lampp/bin/php-7.3.7"
+}
